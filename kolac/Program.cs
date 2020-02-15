@@ -17,7 +17,7 @@ namespace kolac
                 else if (x % 2 != 0)
                 {
                     Console.WriteLine(x = x * 3 + 1);
-                    
+                   // amele 
                 }
             }
             {
